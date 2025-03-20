@@ -5,5 +5,5 @@ Here sentiments of the tweets posted by users in Twitter during COVID-19 pandemi
 <br>
 __*LSTM (Long Short Term Memory) gives the best testing accuracy of 92.1 by using the Adam optimizer*__
 <br>
-# Paper: 
+# Paper
 Link: https://www.inderscienceonline.com/doi/abs/10.1504/IJCBDD.2024.139485
